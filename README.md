@@ -82,8 +82,4 @@
     
     <section id="contacto">
         <h2>Contacto</h2>
-        <p>Dirección: Candelaria Tlapala, Chalco, México</p>
-        <p>Teléfono: (123) 456-7890</p>
-        <p>Email: info@eppo344.edu</p>
-
-   
+        <p>Dirección: Candelaria Tlapala, Ch
